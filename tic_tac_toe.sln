@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tic_tac_toe", "tic_tac_toe.csproj", "{72B368FE-6A02-4B1E-8179-7892368B6FFD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{FAC15AA6-7721-4F4B-8CD5-FF38C5F184F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B368FE-6A02-4B1E-8179-7892368B6FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B368FE-6A02-4B1E-8179-7892368B6FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B368FE-6A02-4B1E-8179-7892368B6FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B368FE-6A02-4B1E-8179-7892368B6FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC15AA6-7721-4F4B-8CD5-FF38C5F184F5}.Debug|Any CPU.ActiveCfg = Debug
+		{FAC15AA6-7721-4F4B-8CD5-FF38C5F184F5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
